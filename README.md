@@ -31,10 +31,10 @@ If doom-modeline icons dont show up just do `M-x all-the-icons-install-fonts`
 ## INSTALL I3WM DOTFILES
 DEPENDENCIES: 
 
-i3blocks  
-i3gaps  
-nitrogen  
-Font-Awesome  
-Allacrity  
-compton / picom (you will have to change the compton part to picom in config)  
-xrandr  
+'i3blocks'  
+'i3gaps'  
+'nitrogen'  
+'Font-Awesome'  
+'Allacrity'  
+'compton / picom (you will have to change the compton part to picom in config)'  
+'xrandr'  
