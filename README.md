@@ -10,7 +10,7 @@ YCM NOT INSTALLED FOR NVIM BECAUSE I AM TO DUMB TO FIX IT
 
 `create the folders ~/.vim and ~/.vim/undodir`  
 `install plug`  
-`Source the vimrc if needed`  
+`Source the init.vim if needed`  
 `run :PlugInstall`  
 
 
