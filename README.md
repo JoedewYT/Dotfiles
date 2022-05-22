@@ -35,6 +35,7 @@ DEPENDENCIES:
 `i3gaps`  
 `nitrogen`  
 `Font-Awesome`  
-`Allacrity`  
+`ktty`  
 `compton / picom (you will have to change the compton part to picom in config)`  
-`xrandr`  
+`xrandr (will have yo change for your monitor setup`  
+`brave`
